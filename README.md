@@ -1,6 +1,6 @@
 # 📰 News Data API
 
-API desenvolvida em Python para coleta automática de notícias através de Web Scraping e disponibilização dos dados via API REST.
+API ainda sendo desenvolvida em Python para coleta automática de notícias através de Web Scraping e disponibilização dos dados via API REST.
 O projeto realiza a extração de notícias, armazena as informações em banco de dados e disponibiliza os dados em formato JSON para consumo por aplicações, dashboards ou sistemas externos.
 
 ---
