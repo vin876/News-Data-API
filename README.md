@@ -20,11 +20,11 @@ O projeto realiza a extração de notícias, armazena as informações em banco 
 
 
 Web Scraping
-↓
+
 Banco de Dados (SQLite)
-↓
+
 API REST (Django + Django REST Framework)
-↓
+
 JSON para consumo de aplicações
 
 
